@@ -1,0 +1,21 @@
+st = "Sun rises In East ß ς"
+
+print(len(st))
+print(st.lower())
+print(st.casefold())
+print(st.upper())
+print(st.capitalize())
+print(st.title())
+print(st.strip())
+print(st.replace('s','K',2))
+print(st.find("East"))
+print(st.startswith("Sun"))
+print(st.endswith("ß"))
+
+print(st.split(" "))
+print(st.join("K"))
+print("abc".isalpha())
+print("123wq".isdigit())
+print("and123@".isalnum())
+print("abc".zfill(15))
+print("abc".center(15,"+"))
