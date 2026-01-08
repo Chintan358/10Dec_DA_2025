@@ -1,4 +1,4 @@
-st = "Sun rises In East ß ς"
+# st = "Sun rises In East ß ς"
 
 # print(len(st))
 # print(st.lower())
@@ -21,11 +21,22 @@ st = "Sun rises In East ß ς"
 # print("abc".center(15,"+"))
 
 
-k = "hellopythonhellotops"
+# k = "hellopythonhellotops"
 
-print(k[0:7])
-print(k[5:9])
-print(k[6:])
-print(k[1:17:3])
-print(k[-1])
-print(k[::-1])
+# print(k[0:7])
+# print(k[5:9])
+# print(k[6:])
+# print(k[1:17:3])
+# print(k[-1])
+# print(k[::-1])
+
+
+st = "Sun rises in east"
+# words = st.split(" ")
+# for i in range(len(words)-1,-1,-1):
+#     print(words[i],end=" ")
+
+#nuS sesir ni tsae
+# words = st.split(" ")
+# for i in words:
+#     print(i[::-1],end=" ")
