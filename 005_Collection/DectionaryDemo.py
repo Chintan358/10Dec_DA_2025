@@ -73,4 +73,25 @@ person = {
 # person['phone'] = "9898989898"
 # person.setdefault("name","7485858585")
 # person.update({"name":"xyz"})
-print(person)
+# print(person)
+
+# student = {
+#     "name" : "test",
+#     10 : "java",
+#     10.23:"abc",
+#     True:"anv",
+#     4j+5 : "fbf",
+#     (10,20,30):"ddsdsds",    
+# }
+# print(student[(10,20,30)])
+
+# s = {10,20,30,(10,20,30)}
+# print(s)
+
+
+# t = (10,20,30,[10,20,30],{"name":"sagar"})
+# t[3][0] = 100
+# t[4]['name']="krushang"
+# print(t)
+
+
