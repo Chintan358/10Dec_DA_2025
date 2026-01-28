@@ -30,8 +30,13 @@
 # print(calendar.month(2026,1))
 # print(calendar.calendar(3000))
 
-l = [10,20,30,40]
-k = ["a","b","c","d"]
+# l = [10,20,30,40]
+# k = ["a","b","c","d"]
 
-for i,j in zip(k,l):
-    print(f"{i}={j}")
+# for i,j in zip(k,l):
+#     print(f"{i}={j}")
+
+
+# a = [10,20,30,40,50,60]
+
+# print(a[:5])

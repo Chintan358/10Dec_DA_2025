@@ -10,7 +10,11 @@
 # s.test()
 
 # from Sample import test
-from Calc import add,square,test
-add(10,20)
+# from Calc import add,square,test
+# add(10,20)
 # square(10)
 # test()
+
+
+from mypackage import data
+data.test()
