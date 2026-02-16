@@ -49,7 +49,9 @@ import re
 # print(k)
 
 
-k = re.match("^[0-9]{10}$","7484404444")
+k = re.match("^   " \
+"" \
+"","7484404444")
 print(k)
 
 # email = input("enter email : ")
