@@ -16,7 +16,8 @@ import numpy as np
 # print(k)
 
 
-a = np.array([10,20,3,40,5,60])
-k = a%2==0
-b = a[k]
-print(b)
+# a = np.array([10,20,3,40,5,60])
+# k = a%2==0
+# b = a[k]
+# print(b)
+
